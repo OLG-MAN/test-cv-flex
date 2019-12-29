@@ -20,7 +20,7 @@
 .navbartop  {
     display: flex;
     flex-direction: row;
-    margin-top:  5%;
+    margin-top: 5%;
     justify-content: space-around;
 }
 
@@ -48,24 +48,13 @@
 .logo1 {
     display: flex;
     align-items: center;
+    widows: 228px;
+    height: 150px;
     margin-left: 15%;
-    margin-top: 1%;
+    margin-top: 5%;
 }
 
-.head1 {
-    display: flex;
-    width: 540px;
-    height: 67px;
-    margin-left: 50%;
-    font-size: 16px;
-}
 
-text {
-    display: flex;
-    width: 200px;
-    margin-left: 50%;
-    margin-top: 1%;
-}
 
 .about {
     display: flex;
