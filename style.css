@@ -64,7 +64,6 @@ img {
 
 .head1 {
     display: flex;
-    width: 250px;
     margin-left: 50%;
     margin-bottom: 40px;
     font-size: 20px;
@@ -74,6 +73,7 @@ img {
     display: flex;
     margin-left: 50%;
     margin-bottom: 30px;
+    color: #727272;
 }
 
 .about {
@@ -83,6 +83,10 @@ img {
     align-items: center;
     margin-bottom: 50px;
     background-color: white;
+}
+
+.about-text {
+    color: #727272;
 }
 
 .numbers {
@@ -124,6 +128,7 @@ img {
 
 .video-text {
     margin-bottom: 50px;
+    color: #727272;
 }
 
 .projects {
@@ -159,6 +164,7 @@ img {
 
 .form-text2 {
     margin-bottom: 30px;
+    color: #727272;
 }
 
 .footer {
